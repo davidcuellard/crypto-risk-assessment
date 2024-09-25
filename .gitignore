@@ -22,4 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-.env
+/backend/venv
+/ml_models/venv
+/ml_models/__pycache__
+/data/raw
+/data/processed
